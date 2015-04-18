@@ -1,0 +1,2 @@
+# Project has migrated to [SourceForge](https://sourceforge.net/projects/meld-installer/) #
+Unfortunately, since Google has [decided](http://google-opensource.blogspot.com/2013/05/a-change-to-google-code-download-service.html) to remove the ability to host downloads, it made it unreasonable for this project to continue using Google as it's hosting service.
